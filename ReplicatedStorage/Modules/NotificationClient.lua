@@ -1,3 +1,5 @@
+-- Connected Discord-GitHub
+-- All systems for the Notification System writen entirely by @ccommu on discord / dev_Commu on roblox.
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
