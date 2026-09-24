@@ -1,0 +1,25 @@
+{
+  "name": "NotificationSystem",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "ServerScriptService"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "StarterPlayer/StarterPlayerScripts"
+      }
+    },
+    "TestService": {
+      "$className": "TestService",
+      "$path": "TestService"
+    }
+  }
+}

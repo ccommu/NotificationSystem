@@ -1,0 +1,431 @@
+{
+  "placeId": 120981176551758,
+  "source": "Roblox Studio MCP",
+  "files": [
+    {
+      "path": "ReplicatedStorage/Modules/NotificationClient.lua",
+      "studioPath": "ReplicatedStorage.Modules.NotificationClient",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Modules/NotificationShowcaseClient.lua",
+      "studioPath": "ReplicatedStorage.Modules.NotificationShowcaseClient",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/NotificationSystem/AssetDefinitions.lua",
+      "studioPath": "ReplicatedStorage.NotificationSystem.AssetDefinitions",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/NotificationSystem/Documentation.lua",
+      "studioPath": "ReplicatedStorage.NotificationSystem.Documentation",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/NotificationSystem/Notifications.lua",
+      "studioPath": "ReplicatedStorage.NotificationSystem.Notifications",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/NotificationSystem/Tests.lua",
+      "studioPath": "ReplicatedStorage.NotificationSystem.Tests",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/NotificationSystem/Validation.lua",
+      "studioPath": "ReplicatedStorage.NotificationSystem.Validation",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/evaera_promise@4.0.0/promise/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.evaera_promise@4.0.0.promise",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/evaera_promise@4.0.0/promise/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.evaera_promise@4.0.0.promise.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Client/ClientComm.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Client.ClientComm",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Client/ClientRemoteProperty.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Client.ClientRemoteProperty",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Client/ClientRemoteSignal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Client.ClientRemoteSignal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Client/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Client",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Server/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Server",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Server/RemoteProperty.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Server.RemoteProperty",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Server/RemoteSignal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Server.RemoteSignal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Server/ServerComm.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Server.ServerComm",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Types.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Types",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/comm/Util.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.comm.Util",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/Option.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.Option",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/Promise.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.Promise",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_comm@1.0.1/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_comm@1.0.1.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/component/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.component",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/component/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.component.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/Promise.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.Promise",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/Symbol.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.Symbol",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_component@2.4.8/Trove.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_component@2.4.8.Trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_enum-list@2.1.0/enum-list/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_enum-list@2.1.0.enum-list",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_enum-list@2.1.0/enum-list/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_enum-list@2.1.0.enum-list.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/Gamepad.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input.Gamepad",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/Keyboard.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input.Keyboard",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/Mouse.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input.Mouse",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/PreferredInput.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input.PreferredInput",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/input/Touch.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.input.Touch",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_input@2.3.0/Trove.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_input@2.3.0.Trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_option@1.0.5/option/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_option@1.0.5.option",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_option@1.0.5/option/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_option@1.0.5.option.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_signal@1.5.0/signal/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_signal@1.5.0.signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_signal@1.5.0/signal/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_signal@1.5.0.signal.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_signal@2.0.1/signal/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_signal@2.0.1.signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_signal@2.0.1/signal/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_signal@2.0.1.signal.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/streamable/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.streamable",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/streamable/Streamable.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.streamable.Streamable",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/streamable/Streamable.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.streamable.Streamable.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/streamable/StreamableUtil.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.streamable.StreamableUtil",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/streamable/StreamableUtil.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.streamable.StreamableUtil.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_streamable@1.2.4/Trove.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_streamable@1.2.4.Trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_symbol@2.0.1/symbol/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_symbol@2.0.1.symbol",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_symbol@2.0.1/symbol/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_symbol@2.0.1.symbol.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_table-util@1.2.1.table-util",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_table-util@1.2.1.table-util.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_timer@1.1.2/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_timer@1.1.2.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_timer@1.1.2/timer/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_timer@1.1.2.timer",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_timer@1.1.2/timer/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_timer@1.1.2.timer.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_trove@0.4.2/trove/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_trove@0.4.2.trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_trove@0.4.2/trove/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_trove@0.4.2.trove.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_trove@1.1.0/trove/init.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_trove@1.1.0.trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/_Index/sleitnick_trove@1.1.0/trove/init.spec.lua",
+      "studioPath": "ReplicatedStorage.Packages._Index.sleitnick_trove@1.1.0.trove.init.spec",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Comm.lua",
+      "studioPath": "ReplicatedStorage.Packages.Comm",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Component.lua",
+      "studioPath": "ReplicatedStorage.Packages.Component",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/EnumList.lua",
+      "studioPath": "ReplicatedStorage.Packages.EnumList",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Input.lua",
+      "studioPath": "ReplicatedStorage.Packages.Input",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Knit/init.lua",
+      "studioPath": "ReplicatedStorage.Packages.Knit",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Knit/KnitClient.lua",
+      "studioPath": "ReplicatedStorage.Packages.Knit.KnitClient",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Knit/KnitServer.lua",
+      "studioPath": "ReplicatedStorage.Packages.Knit.KnitServer",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Option.lua",
+      "studioPath": "ReplicatedStorage.Packages.Option",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Promise.lua",
+      "studioPath": "ReplicatedStorage.Packages.Promise",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Signal.lua",
+      "studioPath": "ReplicatedStorage.Packages.Signal",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Streamable.lua",
+      "studioPath": "ReplicatedStorage.Packages.Streamable",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/TableUtil.lua",
+      "studioPath": "ReplicatedStorage.Packages.TableUtil",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Timer.lua",
+      "studioPath": "ReplicatedStorage.Packages.Timer",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Packages/Trove.lua",
+      "studioPath": "ReplicatedStorage.Packages.Trove",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ReplicatedStorage/Types.lua",
+      "studioPath": "ReplicatedStorage.Types",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ServerScriptService/FullExampleService.lua",
+      "studioPath": "ServerScriptService.FullExampleService",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ServerScriptService/KnitRuntime.server.lua",
+      "studioPath": "ServerScriptService.KnitRuntime",
+      "className": "Script"
+    },
+    {
+      "path": "ServerScriptService/Services/NotificationService/init.lua",
+      "studioPath": "ServerScriptService.Services.NotificationService",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ServerScriptService/Services/NotificationService/Notifications.lua",
+      "studioPath": "ServerScriptService.Services.NotificationService.Notifications",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "ServerScriptService/Services/NotificationShowcaseService.lua",
+      "studioPath": "ServerScriptService.Services.NotificationShowcaseService",
+      "className": "ModuleScript"
+    },
+    {
+      "path": "StarterPlayer/StarterPlayerScripts/KnitRuntimeClient.client.lua",
+      "studioPath": "StarterPlayer.StarterPlayerScripts.KnitRuntimeClient",
+      "className": "LocalScript"
+    },
+    {
+      "path": "TestService/RobloxLSP_Settings.lua",
+      "studioPath": "TestService.RobloxLSP_Settings",
+      "className": "ModuleScript"
+    }
+  ]
+}
